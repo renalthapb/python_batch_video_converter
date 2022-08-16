@@ -13,6 +13,7 @@ Using [FFMPEG](https://ffmpeg.org/download.html) (windows build) and [althonos's
 Requirements:
 -------------
 - Python 3.7.x
+- Python tqdm
 - ffmpeg windows build
 
 Usage:
