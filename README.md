@@ -1,2 +1,25 @@
-# video_batch_converter
-Video Batch Converter Written in Python
+Batch Video Converter
+==========================
+
+Batch Video Converter Written in Python
+
+Curently Support :
+1. (.ts) to (.mp4) convert
+2. Only support for Windows OS
+3. NVidia Hardware Acceleration On by default
+
+Using [FFMPEG](https://ffmpeg.org/download.html) (windows build) and [althonos's ffpb](https://github.com/althonos/ffpb)
+
+Usage:
+---------
+- change 'source_dir' variable in 'batch_converter.py' into the location of the folder you want to convert
+- make sure the (.ts) video is in that folder
+
+
+To Do:
+---------
+- [ ] support more video encoder
+- [ ] support more OS
+- [ ] support more hardware acceleration
+- [ ] terminal GUI
+- [ ] ...
