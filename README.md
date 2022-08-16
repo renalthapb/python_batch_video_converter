@@ -10,10 +10,18 @@ Curently Support :
 
 Using [FFMPEG](https://ffmpeg.org/download.html) (windows build) and [althonos's ffpb](https://github.com/althonos/ffpb)
 
+Requirements:
+-------------
+- Python 3.7.x
+- ffmpeg windows build
+
 Usage:
 ---------
-- change 'source_dir' variable in 'batch_converter.py' into the location of the folder you want to convert
+- download ffmpeg from https://ffmpeg.org/download.html (windows build)
+- extract all files to folder ffmpeg
+- change `source_dir` variable in `batch_converter.py` into the location of the folder you want to convert
 - make sure the (.ts) video is in that folder
+- run `batch_converter.py`
 
 
 To Do:
