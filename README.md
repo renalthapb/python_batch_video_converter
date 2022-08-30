@@ -6,7 +6,6 @@ Batch Video Converter Written in Python
 Curently Support :
 1. Video formats : mp4, mpeg, mov, ts, mov, avi
 2. Only support for Windows OS
-3. NVidia Hardware Acceleration On by default
 
 Using [FFMPEG](https://ffmpeg.org/download.html) (windows build) and [althonos's ffpb](https://github.com/althonos/ffpb)
 
