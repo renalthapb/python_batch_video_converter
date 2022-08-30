@@ -27,7 +27,7 @@ To Do:
 ---------
 - [x] support more video encoder
 - [ ] support more OS
-- [ ] support more hardware acceleration
+- [x] support more hardware acceleration
 - [x] terminal GUI
 - [ ] GUI
 - [ ] ...
